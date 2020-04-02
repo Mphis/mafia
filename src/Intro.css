@@ -1,3 +1,11 @@
-.Intro {
+.intro_text {
   text-align: center;
+  color: aliceblue;
+}
+
+.btn {
+  position: absolute;
+  margin: 0;
+  width: 100%;
+  padding-top: 270px;
 }
