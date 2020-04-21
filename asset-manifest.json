@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mafia/static/css/main.0f983f7b.chunk.css",
+    "main.js": "/mafia/static/js/main.1cb7caae.chunk.js",
+    "main.js.map": "/mafia/static/js/main.1cb7caae.chunk.js.map",
+    "runtime-main.js": "/mafia/static/js/runtime-main.54b7de88.js",
+    "runtime-main.js.map": "/mafia/static/js/runtime-main.54b7de88.js.map",
+    "static/js/2.a3fb700f.chunk.js": "/mafia/static/js/2.a3fb700f.chunk.js",
+    "static/js/2.a3fb700f.chunk.js.map": "/mafia/static/js/2.a3fb700f.chunk.js.map",
+    "index.html": "/mafia/index.html",
+    "precache-manifest.14657bdf7a4e94df8f35e2984856b7d7.js": "/mafia/precache-manifest.14657bdf7a4e94df8f35e2984856b7d7.js",
+    "service-worker.js": "/mafia/service-worker.js",
+    "static/css/main.0f983f7b.chunk.css.map": "/mafia/static/css/main.0f983f7b.chunk.css.map",
+    "static/js/2.a3fb700f.chunk.js.LICENSE.txt": "/mafia/static/js/2.a3fb700f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54b7de88.js",
+    "static/js/2.a3fb700f.chunk.js",
+    "static/css/main.0f983f7b.chunk.css",
+    "static/js/main.1cb7caae.chunk.js"
+  ]
+}
